@@ -5,13 +5,13 @@ After installing, you should be able to clone from and push to GitHub repositori
 Enter the root directory of the project and run:
 sudo ./install_Git.sh
 
-It does not support cloning resources via 'https'. You can use 'ssh' to clone with Git. If you're unfamiliar with using a password-protected SSH key to clone repositories, please Refer to the following section **"GitHub SSH Setup Guide"**.
+It does not support cloning/pushing resources via 'https'. You can use 'ssh' to clone with Git. If you're unfamiliar with using a password-protected SSH key to clone repositories, please Refer to the following section **"GitHub SSH Setup Guide"**.
 
 The command to clone resources from github is similar to the following:
 ```bash
 sudo git clone git@github.com:jjjadand/reCamera_get-RGB-sample.git
 ```
-The command to push resources from github is similar to the following:
+The command to push resources from git///hub is similar to the following:
 ```bash
 sudo git init
 sudo git add .
