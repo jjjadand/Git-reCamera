@@ -5,7 +5,7 @@ Enter the directory of the project and run:
 ```bash
 cd Git-reCamera/
 sudo ./install_Git.sh
-```bash
+```
 
 It does not support cloning/pushing resources via 'https'. You can use 'ssh' to clone with Git. If you're unfamiliar with using a password-protected SSH key to clone repositories, please Refer to the following section **"GitHub SSH Setup Guide"**.
 
